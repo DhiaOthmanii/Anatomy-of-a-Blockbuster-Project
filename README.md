@@ -107,7 +107,6 @@ Each visualization includes a written interpretation.
 
 * Machine learning model to predict revenue or ROI
 
-
 * Actor/director popularity metrics
 
 * More advanced outlier detection
